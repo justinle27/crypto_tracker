@@ -1,0 +1,14 @@
+#Ignore VS project files
+.vs/
+.vscode/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore system files
+*.DS_Store
+Thumbs.db
+
+# Ignore environment files
+.env
